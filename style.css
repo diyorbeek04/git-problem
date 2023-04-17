@@ -6,5 +6,11 @@
 .wrapper{
     width: 1400px;
     border: 1px solid;
-    margin: 40px autogit;
+    margin: 40px auto;
+}
+.wrapper .boxforlogo{
+    width: 155px;
+    height: 70px;
+    margin: 18px auto 18px 250px;
+    border: 1px solid;
 }
